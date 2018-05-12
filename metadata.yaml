@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8513
     wikipedia: http://nl.wikipedia.org/wiki/Jacob_van_Lennep
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40417#Zeemans-Woordeboek--13-wetsbepalingen-daartoe
 gutenberg_issued: '2012-08-06'
 gutenberg_type: Text
 identifiers:
