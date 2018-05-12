@@ -1,0 +1,34 @@
+_repo: Zeemans-Woordeboek--13-wetsbepalingen-daartoe_40417
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40417-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Lennep, J. van (Jacob)
+    aliases:
+    - Van Lennep, J. (Jacob)
+    - Lennep, Jacob van
+    - Lennep, Jakob van
+    birthdate: 1802
+    deathdate: 1868
+    gutenberg_agent_id: '8513'
+    url: http://www.gutenberg.org/2009/agents/8513
+    wikipedia: http://nl.wikipedia.org/wiki/Jacob_van_Lennep
+description: ''
+gutenberg_issued: '2012-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40417'
+  lccn: '06025005'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch language -- Dictionaries'
+- !lcc 'V'
+- !lcsh 'Naval art and science -- Dictionaries'
+title: "Zeemans-Woordeboek\r\nBehelzende een verklaring der woorden, by scheepvaart\
+  \ en den handel in gebruik en een opgave der algemeene wetsbepalingen daartoe"
+url: http://www.gutenberg.org/ebooks/40417
